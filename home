@@ -1,0 +1,513 @@
+
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+	<title>ML Plumbing and Heating</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost:8888\/mlplumbing\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='dashicons-css'  href='http://localhost:8888/mlplumbing/wp-includes/css/dashicons.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='http://localhost:8888/mlplumbing/wp-includes/css/admin-bar.min.css?ver=5.5.2' type='text/css' media='all' />
+<style id='admin-bar-inline-css' type='text/css'>
+#wp-admin-bar-fl-builder-frontend-edit-link .ab-icon:before { content: "\f116" !important; top: 2px; margin-right: 3px; }
+</style>
+<link rel='stylesheet' id='wp-block-library-css'  href='http://localhost:8888/mlplumbing/wp-includes/css/dist/block-library/style.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fl-builder-layout-3551-css'  href='http://localhost:8888/mlplumbing/wp-content/uploads/bb-plugin/cache/3551-layout.css?ver=b78eb0548ed5474534f51bce91692679' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://localhost:8888/mlplumbing/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='http://localhost:8888/mlplumbing/wp-content/plugins/cpo-companion/assets/css/fontawesome.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cpo-companion-style-css'  href='http://localhost:8888/mlplumbing/wp-content/plugins/cpo-companion/assets/css/style.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cpotheme-base-css'  href='http://localhost:8888/mlplumbing/wp-content/themes/allegiant/core/css/base.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cpotheme-main-css'  href='http://localhost:8888/mlplumbing/wp-content/themes/allegiant/style.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='duplicate-post-css'  href='http://localhost:8888/mlplumbing/wp-content/plugins/duplicate-post/duplicate-post.css?ver=5.5.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://localhost:8888/mlplumbing/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://localhost:8888/mlplumbing/wp-content/themes/allegiant/core/scripts/html5-min.js?ver=5.5.2' id='cpotheme_html5-js'></script>
+<link rel="https://api.w.org/" href="http://localhost:8888/mlplumbing/wp-json/" /><link rel="alternate" type="application/json" href="http://localhost:8888/mlplumbing/wp-json/wp/v2/pages/3551" /><meta name="generator" content="WordPress 5.5.2" />
+<link rel="canonical" href="http://localhost:8888/mlplumbing/" />
+<link rel='shortlink' href='http://localhost:8888/mlplumbing/' />
+<link rel="alternate" type="application/json+oembed" href="http://localhost:8888/mlplumbing/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%3A8888%2Fmlplumbing%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://localhost:8888/mlplumbing/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%3A8888%2Fmlplumbing%2F&#038;format=xml" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+<link rel="pingback" href="http://localhost:8888/mlplumbing/xmlrpc.php"/>
+<meta charset="UTF-8"/>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("http://localhost:8888/mlplumbing/wp-content/uploads/2020/10/Background.jpg"); background-position: center top; background-size: cover; background-repeat: no-repeat; background-attachment: fixed; }
+</style>
+	<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+	<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+	<link rel="icon" href="http://localhost:8888/mlplumbing/wp-content/uploads/2020/10/cropped-ml-plumbing-icon-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://localhost:8888/mlplumbing/wp-content/uploads/2020/10/cropped-ml-plumbing-icon-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://localhost:8888/mlplumbing/wp-content/uploads/2020/10/cropped-ml-plumbing-icon-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://localhost:8888/mlplumbing/wp-content/uploads/2020/10/cropped-ml-plumbing-icon-270x270.jpg" />
+		<style type="text/css" id="wp-custom-css">
+			/* Slide Text Colour */
+
+.slide-title {
+	color: white;
+	text-shadow: 2px 2px 4px #ff0000;
+}
+
+
+/* colours */
+
+/* #features, #tagline, #slider, #main, #portfolio, #services, #testimonials, #clients, #team */
+
+#main {
+	background-color: #dadad9;
+}
+
+.header {
+	background-color: #dadad9;
+}
+
+/*footer*/ body .secondary-color-bg {
+	background-color: #138ac4;
+}
+
+
+/* tagline size adjust */
+#tagline {
+	font-size: 1.2em;
+}
+
+/* Item delete */
+
+.footer, .breadcrumb {
+    display: none;
+}
+
+/* responsive full width headers */
+
+#fwsection {
+  margin-left: calc(50% - 50vw);
+  width: 100vw;
+}		</style>
+		</head>
+
+<body class="home page-template-default page page-id-3551 logged-in admin-bar no-customize-support custom-background fl-builder  sidebar-none">
+		<script type="text/javascript">
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+				request = true;
+	
+			b[c] = b[c].replace( rcs, ' ' );
+			// The customizer requires postMessage and CORS (if the site is cross domain).
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	</script>
+			<div id="wpadminbar" class="nojq nojs">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
+				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost:8888/mlplumbing/wp-admin/about.php'><span class="ab-icon"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/about.php'>About WordPress</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://en-gb.wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://codex.wordpress.org/'>Documentation</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://wordpress.org/support/'>Support</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li></ul></div></li><li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost:8888/mlplumbing/wp-admin/'>ML Plumbing and Heating</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-site-name-default' class="ab-submenu"><li id='wp-admin-bar-dashboard'><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/'>Dashboard</a></li></ul><ul id='wp-admin-bar-appearance' class="ab-submenu"><li id='wp-admin-bar-themes'><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/themes.php'>Themes</a></li><li id='wp-admin-bar-widgets'><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/widgets.php'>Widgets</a></li><li id='wp-admin-bar-menus'><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/nav-menus.php'>Menus</a></li><li id='wp-admin-bar-background' class="hide-if-customize"><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/themes.php?page=custom-background'>Background</a></li><li id='wp-admin-bar-header' class="hide-if-customize"><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/themes.php?page=custom-header'>Header</a></li></ul></div></li><li id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/customize.php?url=http%3A%2F%2Flocalhost%3A8888%2Fmlplumbing%2F'>Customise</a></li><li id='wp-admin-bar-updates'><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/update-core.php' title='5 Plugin Updates'><span class="ab-icon"></span><span class="ab-label">5</span><span class="screen-reader-text">5 Plugin Updates</span></a></li><li id='wp-admin-bar-comments'><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/edit-comments.php'><span class="ab-icon"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 Comments in moderation</span></a></li><li id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost:8888/mlplumbing/wp-admin/media-new.php'><span class="ab-icon"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-new-content-default' class="ab-submenu"><li id='wp-admin-bar-new-media'><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/media-new.php'>Media</a></li><li id='wp-admin-bar-new-page'><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/post-new.php?post_type=page'>Page</a></li><li id='wp-admin-bar-new-cpo_slide'><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/post-new.php?post_type=cpo_slide'>Slide</a></li><li id='wp-admin-bar-new-cpo_feature'><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/post-new.php?post_type=cpo_feature'>Feature</a></li><li id='wp-admin-bar-new-cpo_portfolio'><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/post-new.php?post_type=cpo_portfolio'>Portfolio</a></li><li id='wp-admin-bar-new-cpo_service'><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/post-new.php?post_type=cpo_service'>Services</a></li><li id='wp-admin-bar-new-cpo_team'><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/post-new.php?post_type=cpo_team'>Team Member</a></li><li id='wp-admin-bar-new-cpo_testimonial'><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/post-new.php?post_type=cpo_testimonial'>Testimonial</a></li><li id='wp-admin-bar-new-cpo_client'><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/post-new.php?post_type=cpo_client'>Client</a></li><li id='wp-admin-bar-new-modula-gallery'><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/post-new.php?post_type=modula-gallery'>Modula</a></li><li id='wp-admin-bar-new-kaliforms_forms'><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/post-new.php?post_type=kaliforms_forms'>Kali Form</a></li><li id='wp-admin-bar-new-wpm-testimonial'><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/post-new.php?post_type=wpm-testimonial'>Testimonial</a></li><li id='wp-admin-bar-new-user'><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/user-new.php'>User</a></li></ul></div></li><li id='wp-admin-bar-edit'><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/post.php?post=3551&#038;action=edit'>Edit Page</a></li><li id='wp-admin-bar-fl-builder-frontend-edit-link'><a class='ab-item' href='http://localhost:8888/mlplumbing/?fl_builder'><span class="ab-icon"></span>Beaver Builder <span class="fl-builder-admin-bar-status-dot" style="color:#6bc373; font-size:18px; line-height:1;">&bull;</span></a></li><li id='wp-admin-bar-new_draft'><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/admin.php?action=duplicate_post_save_as_new_post_draft&#038;post=3551&#038;_wpnonce=82f0be10fe'>Copy to a new draft</a></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="http://localhost:8888/mlplumbing/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search"/></form></div></li><li id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' aria-haspopup="true" href='http://localhost:8888/mlplumbing/wp-admin/profile.php'>Hi, <span class="display-name">dom</span><img alt='' src='http://1.gravatar.com/avatar/a4beb8879908742c3df9c6d95bfcadea?s=26&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/a4beb8879908742c3df9c6d95bfcadea?s=52&#038;d=mm&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' loading='lazy'/></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-user-actions' class="ab-submenu"><li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='http://localhost:8888/mlplumbing/wp-admin/profile.php'><img alt='' src='http://1.gravatar.com/avatar/a4beb8879908742c3df9c6d95bfcadea?s=64&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/a4beb8879908742c3df9c6d95bfcadea?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' loading='lazy'/><span class='display-name'>dom</span></a></li><li id='wp-admin-bar-edit-profile'><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-admin/profile.php'>Edit Profile</a></li><li id='wp-admin-bar-logout'><a class='ab-item' href='http://localhost:8888/mlplumbing/wp-login.php?action=logout&#038;_wpnonce=2b7f66a49a'>Log Out</a></li></ul></div></li></ul>			</div>
+						<a class="screen-reader-shortcut" href="http://localhost:8888/mlplumbing/wp-login.php?action=logout&#038;_wpnonce=2b7f66a49a">Log Out</a>
+					</div>
+
+			<div class="outer" id="top">
+				<div class="wrapper">
+			<div id="topbar" class="topbar">
+				<div class="container">
+										<div class="clear"></div>
+				</div>
+			</div>
+			<header id="header" class="header">
+				<div class="container">
+					<div id="logo" class="logo"><a class="site-logo" href="http://localhost:8888/mlplumbing"><img src="http://localhost:8888/mlplumbing/wp-content/uploads/2020/10/M-Luscombe-Logo-Grey-BG.jpg" alt="ML Plumbing and Heating" style="width:250px;"/></a><h1 class="title site-title  hidden"><a href="http://localhost:8888/mlplumbing">ML Plumbing and Heating</a></h1></div><button id="menu-mobile-open" class=" menu-mobile-open menu-mobile-toggle"></button><ul id="menu-main" class="menu-main"><li id="menu-item-3631" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-3551 current_page_item menu-item-3631"><a href="http://localhost:8888/mlplumbing/" aria-current="page">Home</a></li>
+<li id="menu-item-3636" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-3636"><a href="http://localhost:8888/mlplumbing#plumbing" aria-current="page">Plumbing</a></li>
+<li id="menu-item-3668" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-3668"><a href="http://localhost:8888/mlplumbing#heating" aria-current="page">Heating</a></li>
+<li id="menu-item-3669" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-3669"><a href="http://localhost:8888/mlplumbing#bathrooms" aria-current="page">Bathrooms</a></li>
+<li id="menu-item-3670" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-3670"><a href="http://localhost:8888/mlplumbing#contactus" aria-current="page">Contact Us</a></li>
+</ul>					<div class='clear'></div>
+				</div>
+			</header>
+			<button id="menu-mobile-close" class="menu-mobile-close menu-mobile-toggle"></button><ul id="menu-mobile" class="menu-mobile"><li id="menu-item-3631" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-3551 current_page_item"><a href="http://localhost:8888/mlplumbing/"><span class="menu-link"><span class="menu-title">Home</span></span></a></li>
+<li id="menu-item-3636" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home"><a href="http://localhost:8888/mlplumbing#plumbing"><span class="menu-link"><span class="menu-title">Plumbing</span></span></a></li>
+<li id="menu-item-3668" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home"><a href="http://localhost:8888/mlplumbing#heating"><span class="menu-link"><span class="menu-title">Heating</span></span></a></li>
+<li id="menu-item-3669" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home"><a href="http://localhost:8888/mlplumbing#bathrooms"><span class="menu-link"><span class="menu-title">Bathrooms</span></span></a></li>
+<li id="menu-item-3670" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home"><a href="http://localhost:8888/mlplumbing#contactus"><span class="menu-link"><span class="menu-title">Contact Us</span></span></a></li>
+</ul><div id="slider" class="slider">
+	<div class="slider-slides cycle-slideshow" data-cycle-pause-on-hover="true" data-cycle-slides=".slide" data-cycle-prev=".slider-prev" data-cycle-next=".slider-next" data-cycle-pager=".slider-pages" data-cycle-timeout="8000" data-cycle-speed="1000" data-cycle-fx="fade">
+								<div id="slide_1" class="slide cycle-slide-active" style="background-image:url(http://localhost:8888/mlplumbing/wp-content/uploads/2015/06/ML-Plumbing-Slider3-scaled.jpg);">
+			<div class="slide-body">
+				<div class="container">
+					<div class="slide-caption">
+						<div class="slide-content">
+							<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+						</div>
+						<h2 class="slide-title">
+							Oil fired central heating systems and any plumbing works are our area of expertise						</h2>
+						<a class="post-edit-link" href="http://localhost:8888/mlplumbing/wp-admin/post.php?post=3353&#038;action=edit">Edit</a>					</div>
+				</div>
+			</div>
+		</div>
+								<div id="slide_2" class="slide cycle-slide-active" style="background-image:url(http://localhost:8888/mlplumbing/wp-content/uploads/2020/10/ML-Plumbing-Slider1-scaled.jpg);">
+			<div class="slide-body">
+				<div class="container">
+					<div class="slide-caption">
+						<div class="slide-content">
+							<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+						</div>
+						<h2 class="slide-title">
+							Trust us to make any arrangements necessary to take the pressure away from your hands						</h2>
+						<a class="post-edit-link" href="http://localhost:8888/mlplumbing/wp-admin/post.php?post=3544&#038;action=edit">Edit</a>					</div>
+				</div>
+			</div>
+		</div>
+								<div id="slide_3" class="slide cycle-slide-active" style="background-image:url(http://localhost:8888/mlplumbing/wp-content/uploads/2015/06/ML-Plumbing-Slider2-scaled.jpg);">
+			<div class="slide-body">
+				<div class="container">
+					<div class="slide-caption">
+						<div class="slide-content">
+							<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+						</div>
+						<h2 class="slide-title">
+							Bathroom and Wetroom re-fit or re-design are a speciality						</h2>
+						<a class="post-edit-link" href="http://localhost:8888/mlplumbing/wp-admin/post.php?post=3358&#038;action=edit">Edit</a>					</div>
+				</div>
+			</div>
+		</div>
+			</div>
+			<button class="slider-prev" data-cycle-cmd="pause"></button>
+		<button class="slider-next" data-cycle-cmd="pause"></button>
+	</div>
+<div id="tagline" class="tagline dark"><div class="container">M Luscombe Plumbing and Heating is a small family run service based near Truro, Cornwall, servicing all of Mid Cornwall. We are a husband and wife team who are known for our professionalism, reliability, honesty, efficiency, and quality workmanship all delivered with the highest possible customer service.
+
+We are dedicated to providing our customers with honest service. You will never be met with surprises when you work with us. We keep our process straightforward and transparent so you know what to expect from start to finish.
+
+You won't have to worry about further issues occurring after our job is done. We do not just provide surface repairs or carry out one-size-fits-all solutions. Our highly experienced engineer performs a thorough assessment of your system to locate the source of the problem. This allows us to provide the best solution.
+
+We cover all aspects of oil fired central heating systems and plumbing works, full bathroom and wet room refurbishments are also a speciality.
+
+Whether you require a boiler change, boiler repair, or a fully installed central heating system; a new basin, tap or complete bathroom refit we would be delighted to accommodate all of your requirements and find you a solution whatever your plumbing problem or project involves.
+
+We do not recommend products or services that you do not need, nor do we surprise you with hidden charges.
+
+For a no obligation quotation or advice call our office on 01872 262821 or 07833 452766</div></div><div id="contact" class="contact">
+	<div class="container">
+		
+		<div class="row">
+			<div class="column col4"><p></p></div>
+			<div class="column col4x2">
+							</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+			<div class="clear"></div>
+
+
+
+<div id="main" class="main">
+	<div class="container">
+		<section id="content" class="content">
+										<div id="post-3551" class="post-3551 page type-page status-publish hentry">
+					<div class="page-content">
+						<div class="fl-builder-content fl-builder-content-3551 fl-builder-content-primary" data-post-id="3551"><div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5f88287b294ef" data-node="5f88287b294ef">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5f88287b2b7b5" data-node="5f88287b2b7b5">
+			<div class="fl-col fl-node-5f88287b2b908 fl-col-small" data-node="5f88287b2b908">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-rich-text fl-node-5f88289539c79" data-node="5f88289539c79">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<h2>Accreditations</h2>
+<div class="col-container">
+<div class="col two-col left">
+<ul>
+<li><a href="http://www.aphc.co.uk/why_use_an_aphc_installer.asp">APHC Member (Competent Persons Scheme)</a></li>
+<li>Public Liability insured up to £2,000,000</li>
+<li><a href="http://www.aphc.co.uk/aphc-financial-protection-for-customers.asp">APHC Financial Protection for customers</a></li>
+<li>City &amp; Guilds Mechanical Engineering Services; Plumbing</li>
+<li>BPEC Water Supply Regulations (WRAS)</li>
+<li>BPEC Domestic/Light Commercial Oil Fired Servicing and Commissioning of Pressure Jet Appliances</li>
+<li>BPEC Domestic Oil Firing System Installation and Energy Conservation Measures in Buildings</li>
+<li>BPEC Domestic and Non Domestic Oil Storage and Supply connected to fixed Combustion Appliances</li>
+<li>LOGIC Unvented Hot Water Systems</li>
+<li>Continuous Professional Development</li>
+</ul>
+</div>
+</div>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5f88287b2b90f fl-col-small" data-node="5f88287b2b90f">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-rich-text fl-node-5f8828e624a63" data-node="5f8828e624a63">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<h2 class="dark-text"><span style="color: #ffffff;">Client testimonials</span></h2>
+<div class="owlslider owl-carousel owl-theme">
+<div class="owl-wrapper-outer autoHeight">
+<div class="owl-wrapper">
+<div class="owl-item">
+<div>
+<blockquote><p><span style="color: #ffffff;">" We would like to highly recommend Matthew Luscombe for the complete refit of our bathroom.  The work carried out has been to a high standard, with interest and efficiency.  We are very happy customers!"</span></p></blockquote>
+<blockquote><p><span style="color: #ffffff;">R&amp;D COOK, STITHIANS</span></p></blockquote>
+<blockquote><p><span style="color: #ffffff;">“We are extreemly pleased with the work you have done (and you have my full permission to quote us on this).  *Mrs B* says the shower is 'extremely luxurious' and I agree with her.  Not only have you done a wonderful job, but the invoice is lower than the original estimate.  Many thanks indeed”</span></p></blockquote>
+<p><span style="color: #ffffff;">MR &amp; MRS BURR, TRURO</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5f9bfb748e1ad" data-node="5f9bfb748e1ad">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5f9bfb749a858" data-node="5f9bfb749a858">
+			<div id="fwsection" class="fl-col fl-node-5f9a93fd4fe72" data-node="5f9a93fd4fe72">
+	<div class="fl-col-content fl-node-content">
+	<div id="bathrooms" class="fl-module fl-module-rich-text fl-node-5f9c049220616 sectiontitle" data-node="5f9c049220616">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<h1 style="text-align: center;">Bathrooms</h1>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5f9c048bb25be" data-node="5f9c048bb25be">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5f9c048bc1f8d" data-node="5f9c048bc1f8d">
+			<div class="fl-col fl-node-5f9c048bc213e" data-node="5f9c048bc213e">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-rich-text fl-node-5f9c047e62a28" data-node="5f9c047e62a28">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>We would be delighted if you wanted to turn to us for all aspects of your new bathroom project; we will present you with options that best fit your particular needs.</p>
+<p>All works can be organised or catered for from start to finish. Our engineer will consult with you about your requirements and discuss all options with you in the comfort of your home, ensuring that personalised solutions are offered that take your property's needs as well as your budget into account.</p>
+<p>We can undertake works from start to finish including plumbing and wall or floor coverings. If you would like us to take the pressure away from you we can also arrange any trades required to work alongside us on your project.</p>
+<p>From the best possible standard of bathrooms to walk in showers and wet rooms, let us dedicate our time to making your home perfect.</p>
+<p>We will provide you with a no obligation estimate which is designed to give you an idea approximate cost, based on the ideas discussed at an initial consultation and maintaining a level of quality that is already present in your home. These costs will be by no means the only possible options you have and we would welcome the opportunity to discuss them with you further to ensure that we achieve your perfect bathroom.</p>
+<p>We do not sell any specific suites so your options will be endless, you can take advantage of any offers we can find available to you at the time.</p>
+<p>All of our estimates offer a detailed breakdown of costs to ensure transparency of service. Final costs can vary as it is not always possible to predict what will be found beneath and existing bathroom in terms of pipe work and drainage, but these areas will be discussed at all times with you from start to finish, ensuring that you know there will be no escalating costs.</p>
+<p>Call us now on 01872 262821 for all your <a href="http://www.mlplumbingandheating.co.uk/plumbing.htm">plumbing</a> and <a href="http://www.mlplumbingandheating.co.uk/heating.htm">heating</a> needs, to be one step closer to your vision becoming your bathroom!</p>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5f9c04a72b41e" data-node="5f9c04a72b41e">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5f9c04a73d1f4" data-node="5f9c04a73d1f4">
+			<div id="fwsection" class="fl-col fl-node-5f9c04a1d6f65" data-node="5f9c04a1d6f65">
+	<div class="fl-col-content fl-node-content">
+	<div id="contactus" class="fl-module fl-module-rich-text fl-node-5f9c051055423 sectiontitle" data-node="5f9c051055423">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<h1 style="text-align: center;">Contact Us</h1>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5f9c04d6a13a8" data-node="5f9c04d6a13a8">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5f9c04d6b4f78" data-node="5f9c04d6b4f78">
+			<div class="fl-col fl-node-5f9c04d6b51a4 fl-col-small" data-node="5f9c04d6b51a4">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-rich-text fl-node-5f9c04dd2fcee" data-node="5f9c04dd2fcee">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p><div role="form" class="wpcf7" id="wpcf7-f3617-p3551-o1" lang="en-GB" dir="ltr">
+<div class="screen-reader-response" role="alert" aria-live="polite"></div>
+<form action="/mlplumbing/#wpcf7-f3617-p3551-o1" method="post" class="wpcf7-form init" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="3617" />
+<input type="hidden" name="_wpcf7_version" value="5.2.2" />
+<input type="hidden" name="_wpcf7_locale" value="en_GB" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f3617-p3551-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="3551" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<p><label> Your Name (required)<br />
+    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </label></p>
+<p><label> Your Email (required)<br />
+    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span> </label></p>
+<p><label> Subject<br />
+    <span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span> </label></p>
+<p><label> Your Message<br />
+    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span> </label></p>
+<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output" role="alert" aria-hidden="true"></div></form></div></p>
+<p>&nbsp;</p>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5f9c04d6b51ad fl-col-small" data-node="5f9c04d6b51ad">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-rich-text fl-node-5f9c04f5b44b8" data-node="5f9c04f5b44b8">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<h3>Address</h3>
+<p>Bosvisack Farm, Tregavethan, Truro, TR4 9EJ</p>
+<h3>Phone</h3>
+<p>01872 262821 or 07833 452766</p>
+<h3>Email</h3>
+<p><a href="mailto:info@mlplumbingandheating.co.uk">info@mlplumbingandheating.co.uk</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5f9c052225ba6" data-node="5f9c052225ba6">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5f9c05223f16d" data-node="5f9c05223f16d">
+			<div id="fwsection" class="fl-col fl-node-5f9c051c27dc8" data-node="5f9c051c27dc8">
+	<div class="fl-col-content fl-node-content">
+		</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5f9c0465bf6ed" data-node="5f9c0465bf6ed">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5f9c0465cd737" data-node="5f9c0465cd737">
+			<div class="fl-col fl-node-5f9c0465cd8f0" data-node="5f9c0465cd8f0">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-photo fl-node-5f882b5a2bc22" data-node="5f882b5a2bc22">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-jpg">
+				<img loading="lazy" class="fl-photo-img wp-image-3666 size-full" src="http://localhost:8888/mlplumbing/wp-content/uploads/2020/10/aphc-logo-Grey-BG.jpg" alt="aphc-logo - Grey BG" itemprop="image" height="120" width="227" title="aphc-logo - Grey BG" srcset="http://localhost:8888/mlplumbing/wp-content/uploads/2020/10/aphc-logo-Grey-BG.jpg 227w, http://localhost:8888/mlplumbing/wp-content/uploads/2020/10/aphc-logo-Grey-BG-219x116.jpg 219w" sizes="(max-width: 227px) 100vw, 227px" />
+					</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</div>											</div>
+				</div>
+																</section>
+				<div class="clear"></div>
+	</div>
+</div>
+
+
+			<section id="subfooter" class="subfooter secondary-color-bg dark">
+	<div class="container">
+		<div class="column col3"><div id="text-2" class="widget widget_text">			<div class="textwidget"><p><strong><span class="ctsc-leading">Address</span></strong></p>
+<p>Bosvisack Farm, Tregavethan, Truro, TR4 9EJ</p>
+<p><a href="tel:01872 262821"><span class="ctsc-leading">Phone</span></a></p>
+<p><a href="tel:01872 262821">01872 262821 or 07833 452766</a></p>
+<span class="ctsc-leading">Email</span>
+<p><a href="mailto:info@mlplumbingandheating.co.uk">info@mlplumbingandheating.co.uk</a></p>
+<p>&nbsp;</p>
+</div>
+		</div></div><div class="column col3"><div id="ctwg-social-4" class="widget ctwg-social">		<div class="ctwg-social" >
+									<a class="ctwg-social-link ctwg-social-facebook" href="https://www.facebook.com/mluscombeplumbingandheating/?hc_location=ufi" title="Facebook">
+				<span class="ctwg-social-icon"></span>
+			</a>
+									<a class="ctwg-social-link ctwg-social-twitter" href="https://twitter.com/mlplumbandheat" title="Twitter">
+				<span class="ctwg-social-icon"></span>
+			</a>
+																													</div>
+		</div></div><div class="clear"></div>	</div>
+</section>
+
+						<footer id="footer" class="footer secondary-color-bg dark">
+				<div class="container">
+					<div class="footer-content">&copy; ML Plumbing and Heating 2020. <a href="//www.cpothemes.com/theme/allegiant">Allegiant</a> theme by CPOThemes.</div>				</div>
+			</footer>
+			
+			<div class="clear"></div>
+		</div><!-- wrapper -->
+			</div><!-- outer -->
+	<link rel='stylesheet' id='cpotheme-font-source-sans-pro-css'  href='//fonts.googleapis.com/css?family=Source+Sans+Pro&#038;ver=5.5.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://localhost:8888/mlplumbing/wp-includes/js/hoverintent-js.min.js?ver=2.2.1' id='hoverintent-js-js'></script>
+<script type='text/javascript' src='http://localhost:8888/mlplumbing/wp-includes/js/admin-bar.min.js?ver=5.5.2' id='admin-bar-js'></script>
+<script type='text/javascript' src='http://localhost:8888/mlplumbing/wp-content/uploads/bb-plugin/cache/3551-layout.js?ver=b78eb0548ed5474534f51bce91692679' id='fl-builder-layout-3551-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/localhost:8888\/mlplumbing\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost:8888/mlplumbing/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.2' id='contact-form-7-js'></script>
+<script type='text/javascript' src='http://localhost:8888/mlplumbing/wp-includes/js/comment-reply.min.js?ver=5.5.2' id='comment-reply-js'></script>
+<script type='text/javascript' src='http://localhost:8888/mlplumbing/wp-content/themes/allegiant/core/scripts/core.js?ver=5.5.2' id='cpotheme_core-js'></script>
+<script type='text/javascript' src='http://localhost:8888/mlplumbing/wp-content/themes/allegiant/core/scripts/jquery.CPOscroll.js?ver=5.5.2' id='cpotheme_scroll-js'></script>
+<script type='text/javascript' src='http://localhost:8888/mlplumbing/wp-includes/js/wp-embed.min.js?ver=5.5.2' id='wp-embed-js'></script>
+<script type='text/javascript' src='http://localhost:8888/mlplumbing/wp-content/themes/allegiant/core/scripts/jquery-cycle2-min.js?ver=5.5.2' id='cpotheme_cycle-js'></script>
+</body>
+</html>
